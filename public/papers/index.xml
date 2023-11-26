@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Papers on Prof. Name</title>
-    <link>https://pascalmichaillat.org/hugo-website/papers/</link>
-    <description>Recent content in Papers on Prof. Name</description>
+    <title>Papers on Franck MIGONE</title>
+    <link>https://fajmigone.io/fmigone/papers/</link>
+    <description>Recent content in Papers on Franck MIGONE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/hugo-website/papers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fajmigone.io/fmigone/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Paper Title 2</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper2/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <title>Job Quality and Poverty in developing countries : evidence from Côte d’Ivoire</title>
+      <link>https://fajmigone.io/fmigone/papers/paper2/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper2/</guid>
-      <description>This paper shows other things. Published in Journal Name, 2015.</description>
+      <guid>https://fajmigone.io/fmigone/papers/paper2/</guid>
+      <description>Ce document de travail analyse la relation entre l&amp;#39;amélioration de la qualité de travail et la réduction de la pauvreté du ménage</description>
     </item>
     
     <item>
-      <title>Paper Title 1</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper1/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <title>Causal effect of conflict on education outcomes in Mali</title>
+      <link>https://fajmigone.io/fmigone/papers/paper1/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper1/</guid>
-      <description>This paper shows things. Published in Journal Name, 2012.</description>
+      <guid>https://fajmigone.io/fmigone/papers/paper1/</guid>
+      <description>Ce papier analyse les effets des crises et des conflits armés sur l&amp;#39;éducation des élèves au mali</description>
     </item>
     
   </channel>

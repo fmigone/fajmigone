@@ -1,12 +1,12 @@
 ---
-title: "Paper Title 1" 
-date: 2012-06-01
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Author Name"
-description: "This paper shows things. Published in Journal Name, 2012." 
-summary: "This paper shows things using various techniques and data." 
+title: "Causal effect of conflict on education outcomes in Mali" 
+date: 2023-10-12
+tags: ["Education","Conflitcs","diff-in-diff"]
+author: ["Josias SADIA","Franck MIGONE","Yoro Diallo"]
+description: "Ce papier analyse les effets des crises et des conflits armés sur l'éducation des élèves au mali" 
+summary: "This paper uses a difference-in-difference analysis to estimate the effect of crisis on education in Mali. We show that the presence of armed conflict in the birth-departement reduces the number of education from 0.16 to 1.97 years" 
 cover:
-    image: "paper1.png"
+    image: "conflict_education_mali.jpg"
     alt: "Image caption"
     relative: false
 editPost:
@@ -21,7 +21,7 @@ editPost:
 
 + [Paper](paper1.pdf)
 + [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/job-rationing)
++ [Code and data](https://github.com/cae-ins/Conflict_Education_Mali)
 
 ---
 
