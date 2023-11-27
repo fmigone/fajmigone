@@ -27,13 +27,13 @@ editPost:
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Cette étude, utilisant une méthodologie de double différence et des appariements par score de propension (PSMs), analyse l'impact causal des crises et des conflits prolongés au Mali sur le système éducatif malien. Les résultats indiquent que ces événements ont eu des conséquences significatives et négatives sur l'éducation, se traduisant par une baisse du nombre moyen d’années d’études entre les générations ayant fréquentés durant le conflit et la génération précédente allant de 0,16 à 1,97 années d’éducation. Ces conclusions soulignent l'urgence de prendre des mesures pour atténuer ces effets néfastes et rétablir un système éducatif fonctionnel dans le pays, mettant en évidence l'importance de comprendre l'impact causal des crises sur l'éducation au Mali.
 
 ---
 
-##### Figure X: Figure caption
+##### Figure 1: Creation des cohortes suivies pour le diff-in-diff
 
-![](paper1.png)
+![](cohorte.png)
 
 ---
 

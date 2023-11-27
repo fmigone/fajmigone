@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://fajmigone.io/fmigone/sitemap.xml
+Sitemap: https://fmigone.github.io/fajmigone/sitemap.xml

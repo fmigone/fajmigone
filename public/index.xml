@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Franck MIGONE</title>
-    <link>https://fajmigone.io/fmigone/</link>
+    <link>https://fmigone.github.io/fajmigone/</link>
     <description>Recent content on Franck MIGONE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fajmigone.io/fmigone/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fmigone.github.io/fajmigone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Job Quality and Poverty in developing countries : evidence from Côte d’Ivoire</title>
-      <link>https://fajmigone.io/fmigone/papers/paper2/</link>
+      <link>https://fmigone.github.io/fajmigone/papers/paper2/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fajmigone.io/fmigone/papers/paper2/</guid>
+      <guid>https://fmigone.github.io/fajmigone/papers/paper2/</guid>
       <description>Ce document de travail analyse la relation entre l&amp;#39;amélioration de la qualité de travail et la réduction de la pauvreté du ménage</description>
     </item>
     
     <item>
       <title>Causal effect of conflict on education outcomes in Mali</title>
-      <link>https://fajmigone.io/fmigone/papers/paper1/</link>
+      <link>https://fmigone.github.io/fajmigone/papers/paper1/</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fajmigone.io/fmigone/papers/paper1/</guid>
+      <guid>https://fmigone.github.io/fajmigone/papers/paper1/</guid>
       <description>Ce papier analyse les effets des crises et des conflits armés sur l&amp;#39;éducation des élèves au mali</description>
     </item>
     
     <item>
       <title>Dataset Title</title>
-      <link>https://fajmigone.io/fmigone/data/data1/</link>
+      <link>https://fmigone.github.io/fajmigone/data/data1/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fajmigone.io/fmigone/data/data1/</guid>
+      <guid>https://fmigone.github.io/fajmigone/data/data1/</guid>
       <description>This dataset contains things.</description>
     </item>
     
     <item>
       <title>Course Title 1</title>
-      <link>https://fajmigone.io/fmigone/courses/course1/</link>
+      <link>https://fmigone.github.io/fajmigone/courses/course1/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://fajmigone.io/fmigone/courses/course1/</guid>
+      <guid>https://fmigone.github.io/fajmigone/courses/course1/</guid>
       <description>This graduate course presents things.</description>
     </item>
     
     <item>
       <title>Course Title 2</title>
-      <link>https://fajmigone.io/fmigone/courses/course2/</link>
+      <link>https://fmigone.github.io/fajmigone/courses/course2/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fajmigone.io/fmigone/courses/course2/</guid>
+      <guid>https://fmigone.github.io/fajmigone/courses/course2/</guid>
       <description>This undergraduate course presents many new things.</description>
     </item>
     
     
     <item>
       <title>Location</title>
-      <link>https://fajmigone.io/fmigone/location/</link>
+      <link>https://fmigone.github.io/fajmigone/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fajmigone.io/fmigone/location/</guid>
+      <guid>https://fmigone.github.io/fajmigone/location/</guid>
       <description>Mailing and office addresses at the University of Place.</description>
     </item>
     
     <item>
       <title>Office Hours</title>
-      <link>https://fajmigone.io/fmigone/officehours/</link>
+      <link>https://fmigone.github.io/fajmigone/officehours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fajmigone.io/fmigone/officehours/</guid>
+      <guid>https://fmigone.github.io/fajmigone/officehours/</guid>
       <description>Schedule and location for office hours.</description>
     </item>
     
