@@ -91,7 +91,7 @@ params:
     label:
       text: "Franck MIGONE"
       icon: favicon.ico
-      iconHeight: 18
+      iconHeight: 16
 
 markup:
     goldmark:
