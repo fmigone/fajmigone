@@ -5,10 +5,7 @@ tags: ["education","panel-synthetique","ni-ni"]
 author: ["YAO Gomez","Franck MIGONE"]
 description: "Cette étude vise à comprendre et analyser la situation des jeunes en Côte d'Ivoire qui ne sont ni étudiants ni employés (NI NI), afin de développer des politiques adaptées. " 
 summary: "This study aims to understand and analyse the situation of young people in Côte d'Ivoire who are neither students nor employees (NI NI), in order to develop appropriate policies. The characteristics of NI NI were identified using descriptive statistics, and the determinants of status in 2016 and 2019 were examined using logit models. An analysis of changes in status between 2016 and 2019 was carried out using a synthetic panel model, followed by an analysis of transition factors using a multinomial probit. The results indicate that NI NI are mainly women aged 20-29, uneducated, married, living in urban areas, from jobless households. Uneducated, common-law or married women living in urban areas are the most likely to become NI NI. The risk decreases with age. NI NI status is more transient than chronic, with persistence more marked in women. Determinants of chronic status include household size and marital status, while elements such as employment in the household and level of education influence chronic NI NI status." 
-cover:
-    image: "jeunes_nini.jpg"
-    alt: "Image caption"
-    relative: false
+
 editPost:
     URL: "https://doi.org/10.1257/aer.102.4.1721"
     Text: "Journal Name"
@@ -32,6 +29,8 @@ Cette étude vise à comprendre et analyser la situation des jeunes en Côte d'I
 ##### Citation
 
 Yao Gomez ; Migone Franck. 2022. "Ni-Ni un jour, Ni-ni toujours ? Evidence du marché du travail ivoirien" ['Working Paper']
+
+---
 
 ```BibTeX
 @article{AAYY,

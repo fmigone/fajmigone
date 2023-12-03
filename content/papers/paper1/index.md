@@ -5,10 +5,7 @@ tags: ["Education","Conflitcs","diff-in-diff"]
 author: ["Josias SADIA","Franck MIGONE","Yoro Diallo"]
 description: "Ce papier analyse les effets des crises et des conflits armés sur l'éducation des élèves au mali" 
 summary: "This paper uses a difference-in-difference analysis to estimate the effect of crisis on education in Mali. We show that the presence of armed conflict in the birth-departement reduces the number of education from 0.16 to 1.97 years" 
-cover:
-    image: "conflict_education_mali.jpg"
-    alt: "Image caption"
-    relative: false
+
 editPost:
     URL: "https://doi.org/10.1257/aer.102.4.1721"
     Text: "Journal Name"

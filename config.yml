@@ -43,7 +43,7 @@ params:
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
-    ShowWordCount: false
+    ShowWordCount: true
     UseHugoToc: true
     comments: false
     math: true
@@ -101,6 +101,6 @@ markup:
         guessSyntax: true
         style: autumn 
     tableOfContents:
-        endLevel: 2
+        endLevel: 5
         ordered: false
-        startLevel: 2
+        startLevel: 5

@@ -1,14 +1,14 @@
 ---
-title: "Course Title 1"
-date: 2022-03-10
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Prof. Name"
-description: "This graduate course presents things." 
+title: "Univeristé Catholique d'Afrique de l'Ouest - License 3 - Travaux Dirigés - Econometrie"
+date: 2022-01-01
+tags: ["econometrics","linear models","license"]
+author: "Professeur MOUSSA Kouamé Richard"
+description: "This graduate course presents things" 
 summary: "This graduate course presents various methods and results." 
 cover:
-    image: "course1.png"
-    alt: "Figure caption"
-    relative: false
+    #image: "course1.png"
+    #alt: "Figure caption"
+    #relative: false
 editPost:
     URL: "https://youtube.com/playlist?list=PL5zEkRHvv2GxQlFbNf-YqSPMP6ePc3DQf"
     Text: "YouTube playlist"
@@ -86,6 +86,7 @@ This section introduces other things.
 ---
 
 ## Part 3
+
 
 This section turns to other things. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse

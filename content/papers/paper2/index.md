@@ -11,10 +11,7 @@ household poverty risk. It also shows that improving the job quality of other ho
 the risk of household poverty. In addition to promoting improved employment conditions for workers,
 policymakers should promote women's access to high-quality jobs. This could involve investing in social
 facilities to relieve the burden of caring for children in the household." 
-cover:
-    image: "job_quality_and_poverty.jpg"
-    alt: "Image caption"
-    relative: false
+
 editPost:
     URL: "https://doi.org/10.1073/pnas.1816454115"
     Text: "Other Journal Name"
