@@ -1,8 +1,8 @@
 ---
 title: "Gouvernance et Marché du Travail : Effet de la Bonne Gouvernance sur le salaire de réserve" 
 date: 2023-12-10
-tags: ["employment","gouvernance","ni-ni"]
-author: ["GOGOUA Alan","Franck MIGONE"]
+tags: ["employment","gouvernance","salaire de reserve"]
+author: ["GOGOUA Allan","Franck MIGONE"]
 description: "Cette étude vise à comprendre et analyser la situation des jeunes en Côte d'Ivoire qui ne sont ni étudiants ni employés (NI NI), afin de développer des politiques adaptées. " 
 summary: "This study aims to understand and analyse the situation of young people in Côte d'Ivoire who are neither students nor employees (NI NI), in order to develop appropriate policies. The characteristics of NI NI were identified using descriptive statistics, and the determinants of status in 2016 and 2019 were examined using logit models. An analysis of changes in status between 2016 and 2019 was carried out using a synthetic panel model, followed by an analysis of transition factors using a multinomial probit. The results indicate that NI NI are mainly women aged 20-29, uneducated, married, living in urban areas, from jobless households. Uneducated, common-law or married women living in urban areas are the most likely to become NI NI. The risk decreases with age. NI NI status is more transient than chronic, with persistence more marked in women. Determinants of chronic status include household size and marital status, while elements such as employment in the household and level of education influence chronic NI NI status." 
 
